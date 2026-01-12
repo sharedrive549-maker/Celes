@@ -1,0 +1,21 @@
+{
+  "personal": {
+    "user_name": "Souranshu"
+  },
+  "knowledge": {
+    "hi": "Hello! How can I assist you today?",
+    "how are you": "I'm doing great, thank you! How about you? How can I assist you today?",
+    "why no voice from you": "I don't have a voice feature in this format, but I'm here to help you through text! If you have any questions or need assistance, feel free to ask!"
+  },
+  "chat_history": [
+    {
+      "user": "hi"
+    },
+    {
+      "user": "how are you"
+    },
+    {
+      "user": "why no voice from you"
+    }
+  ]
+}
